@@ -1,4 +1,4 @@
-## Projet ws-soap
+# Projet ws-soap
 
 Ce projet met en œuvre un service web SOAP simple en Java, accompagné d'un client Java pour interagir avec ce service. Il illustre les concepts de base de la création et de la consommation de services web SOAP à l'aide de JAX-WS et Maven.
 
@@ -66,3 +66,14 @@ Si les modules sont indépendants, naviguez dans chaque répertoire (`ws-soap/` 
 
 Le fichier `BanqueWS.wsdl` (situé dans `client-soap-java/src/main/java/proxy/`) décrit le contrat du service web `BanqueService`. Il peut être utilisé par d'autres clients ou outils pour comprendre comment interagir avec le service.
 
+### Resultat
+
+![1](https://github.com/user-attachments/assets/683f2da3-bbd9-4c91-b08b-20bba6f4743f)
+
+![2](https://github.com/user-attachments/assets/41e12f1e-1fd3-4966-b2d3-cb49a8e24371)
+
+![3](https://github.com/user-attachments/assets/62cc4fcf-39d8-4319-b4bc-ebad03cfda44)
+
+![4](https://github.com/user-attachments/assets/f49b7df7-b145-4a69-a640-1febe598dfa9)
+
+![5](https://github.com/user-attachments/assets/af0b3a19-55be-4b31-88a3-681306128538)
